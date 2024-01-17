@@ -33,7 +33,7 @@
     "vue": "^3.2.31"
   },
   "devDependencies": {
-    "@rushstack/eslint-patch": "^1.2.0",
+    "@rushstack/eslint-patch": "^1.7.0",
     "@storybook/addon-essentials": "^7.5.2",
     "@storybook/addon-interactions": "^7.5.2",
     "@storybook/addon-links": "^7.5.2",
