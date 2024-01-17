@@ -30,7 +30,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "vue": "^3.2.31"
+    "vue": "^3.4.14"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
