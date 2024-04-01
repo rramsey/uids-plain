@@ -68,7 +68,7 @@
     "vite": "^4.2.1",
     "vite-plugin-dts": "^3.6.4",
     "vite-plugin-static-copy": "^1.0.0",
-    "vitest": "^0.26.2",
+    "vitest": "^1.4.0",
     "vue-loader": "^16.8.3",
     "vue-tsc": "^0.33.9"
   },
