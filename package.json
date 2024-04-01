@@ -70,7 +70,7 @@
     "vite-plugin-static-copy": "^1.0.0",
     "vitest": "^0.26.2",
     "vue-loader": "^16.8.3",
-    "vue-tsc": "^0.33.9"
+    "vue-tsc": "^2.0.7"
   },
   "resolutions": {
     "jackspeak": "2.1.1"
